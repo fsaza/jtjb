@@ -1,0 +1,262 @@
+09/25/23 16:05:08 v1.34.5 @ FSAZ, 
+09/25/23 16:05:08 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:05:08 v1.34.5 @ FSAZ, Starting factorization of 17290066070594979571009663381214201320459569851358502368651245514213538229969915658064992558167323586895088933922835353804055772638980251328261
+09/25/23 16:05:08 v1.34.5 @ FSAZ, using pretesting plan: normal
+09/25/23 16:05:08 v1.34.5 @ FSAZ, no tune info: using qs/gnfs crossover of 95 digits
+09/25/23 16:05:08 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:05:08 v1.34.5 @ FSAZ, rho: x^2 + 3, starting 1000 iterations on C143
+09/25/23 16:05:08 v1.34.5 @ FSAZ, rho: x^2 + 2, starting 1000 iterations on C143
+09/25/23 16:05:08 v1.34.5 @ FSAZ, rho: x^2 + 1, starting 1000 iterations on C143
+09/25/23 16:05:08 v1.34.5 @ FSAZ, pm1: starting B1 = 150K, B2 = gmp-ecm default on C143
+09/25/23 16:05:08 v1.34.5 @ FSAZ, c76 = 4621458271649466328929622888455049138346761759277590599899347613359417319051
+09/25/23 16:05:08 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:08 v1.34.5 @ FSAZ, scheduled 30 curves at B1=2000 toward target pretesting depth of 20.62
+09/25/23 16:05:08 v1.34.5 @ FSAZ, prp10 = 2794985117 (curve 2 stg1 B1=2000 sigma=3772188287 thread=0)
+09/25/23 16:05:08 v1.34.5 @ FSAZ, Finished 2 curves using Lenstra ECM method on C67 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:05:08 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:08 v1.34.5 @ FSAZ, scheduled 28 curves at B1=2000 toward target pretesting depth of 17.85
+09/25/23 16:05:08 v1.34.5 @ FSAZ, c39 = 188173854700037751306885601841603088203 (curve 1 stg2 B1=2000 sigma=790647849 thread=0)
+09/25/23 16:05:08 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C58 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:05:08 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:08 v1.34.5 @ FSAZ, scheduled 27 curves at B1=2000 toward target pretesting depth of 5.85
+09/25/23 16:05:08 v1.34.5 @ FSAZ, prp10 = 2217990919 (curve 1 stg1 B1=2000 sigma=2827778689 thread=0)
+09/25/23 16:05:08 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C19 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:05:08 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:08 v1.34.5 @ FSAZ, scheduled 26 curves at B1=2000 toward target pretesting depth of 3.08
+09/25/23 16:05:08 v1.34.5 @ FSAZ, prp10 = 3207148519
+09/25/23 16:05:08 v1.34.5 @ FSAZ, 
+09/25/23 16:05:08 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:05:08 v1.34.5 @ FSAZ, Starting factorization of 4621458271649466328929622888455049138346761759277590599899347613359417319051
+09/25/23 16:05:08 v1.34.5 @ FSAZ, using pretesting plan: normal
+09/25/23 16:05:08 v1.34.5 @ FSAZ, no tune info: using qs/gnfs crossover of 95 digits
+09/25/23 16:05:08 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:05:08 v1.34.5 @ FSAZ, rho: x^2 + 3, starting 1000 iterations on C76
+09/25/23 16:05:08 v1.34.5 @ FSAZ, rho: x^2 + 2, starting 1000 iterations on C76
+09/25/23 16:05:08 v1.34.5 @ FSAZ, rho: x^2 + 1, starting 1000 iterations on C76
+09/25/23 16:05:08 v1.34.5 @ FSAZ, pm1: starting B1 = 150K, B2 = gmp-ecm default on C76
+09/25/23 16:05:08 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:08 v1.34.5 @ FSAZ, scheduled 30 curves at B1=2000 toward target pretesting depth of 23.38
+09/25/23 16:05:08 v1.34.5 @ FSAZ, prp10 = 2370292207 (curve 1 stg1 B1=2000 sigma=2455384172 thread=0)
+09/25/23 16:05:08 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C76 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:05:08 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:08 v1.34.5 @ FSAZ, scheduled 29 curves at B1=2000 toward target pretesting depth of 20.62
+09/25/23 16:05:08 v1.34.5 @ FSAZ, c20 = 11703835319120958991 (curve 1 stg1 B1=2000 sigma=3731765786 thread=0)
+09/25/23 16:05:08 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C67 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:05:08 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:08 v1.34.5 @ FSAZ, scheduled 28 curves at B1=2000 toward target pretesting depth of 14.77
+09/25/23 16:05:08 v1.34.5 @ FSAZ, c19 = 9890332612033623319 (curve 1 stg2 B1=2000 sigma=2352396185 thread=0)
+09/25/23 16:05:08 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C48 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:05:08 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:08 v1.34.5 @ FSAZ, scheduled 27 curves at B1=2000 toward target pretesting depth of 8.92
+09/25/23 16:05:08 v1.34.5 @ FSAZ, prp10 = 2923072267 (curve 1 stg2 B1=2000 sigma=2640215064 thread=0)
+09/25/23 16:05:08 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C29 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:05:08 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:08 v1.34.5 @ FSAZ, scheduled 26 curves at B1=2000 toward target pretesting depth of 5.85
+09/25/23 16:05:08 v1.34.5 @ FSAZ, prp10 = 2338725373 (curve 1 stg1 B1=2000 sigma=3262310885 thread=0)
+09/25/23 16:05:08 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C19 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:05:08 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:08 v1.34.5 @ FSAZ, scheduled 25 curves at B1=2000 toward target pretesting depth of 3.08
+09/25/23 16:05:08 v1.34.5 @ FSAZ, prp10 = 2463878387
+09/25/23 16:05:08 v1.34.5 @ FSAZ, 
+09/25/23 16:05:08 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:05:08 v1.34.5 @ FSAZ, Starting factorization of 11703835319120958991
+09/25/23 16:05:08 v1.34.5 @ FSAZ, using pretesting plan: normal
+09/25/23 16:05:08 v1.34.5 @ FSAZ, no tune info: using qs/gnfs crossover of 95 digits
+09/25/23 16:05:08 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:05:08 v1.34.5 @ FSAZ, rho: x^2 + 3, starting 1000 iterations on C20
+09/25/23 16:05:08 v1.34.5 @ FSAZ, rho: x^2 + 2, starting 1000 iterations on C20
+09/25/23 16:05:08 v1.34.5 @ FSAZ, rho: x^2 + 1, starting 1000 iterations on C20
+09/25/23 16:05:08 v1.34.5 @ FSAZ, pm1: starting B1 = 150K, B2 = gmp-ecm default on C20
+09/25/23 16:05:08 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:08 v1.34.5 @ FSAZ, scheduled 30 curves at B1=2000 toward target pretesting depth of 6.15
+09/25/23 16:05:08 v1.34.5 @ FSAZ, prp10 = 3939901243 (curve 5 stg2 B1=2000 sigma=938213973 thread=0)
+09/25/23 16:05:08 v1.34.5 @ FSAZ, Finished 5 curves using Lenstra ECM method on C20 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:05:08 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:08 v1.34.5 @ FSAZ, scheduled 25 curves at B1=2000 toward target pretesting depth of 3.08
+09/25/23 16:05:08 v1.34.5 @ FSAZ, prp10 = 2970591037
+09/25/23 16:05:08 v1.34.5 @ FSAZ, Total factoring time = 0.0270 seconds
+09/25/23 16:05:08 v1.34.5 @ FSAZ, 
+09/25/23 16:05:08 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:05:08 v1.34.5 @ FSAZ, Starting factorization of 9890332612033623319
+09/25/23 16:05:08 v1.34.5 @ FSAZ, using pretesting plan: normal
+09/25/23 16:05:08 v1.34.5 @ FSAZ, no tune info: using qs/gnfs crossover of 95 digits
+09/25/23 16:05:08 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:05:08 v1.34.5 @ FSAZ, rho: x^2 + 3, starting 1000 iterations on C19
+09/25/23 16:05:08 v1.34.5 @ FSAZ, rho: x^2 + 2, starting 1000 iterations on C19
+09/25/23 16:05:08 v1.34.5 @ FSAZ, rho: x^2 + 1, starting 1000 iterations on C19
+09/25/23 16:05:08 v1.34.5 @ FSAZ, pm1: starting B1 = 150K, B2 = gmp-ecm default on C19
+09/25/23 16:05:08 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:08 v1.34.5 @ FSAZ, scheduled 30 curves at B1=2000 toward target pretesting depth of 5.85
+09/25/23 16:05:09 v1.34.5 @ FSAZ, prp10 = 3654864131 (curve 3 stg2 B1=2000 sigma=2681108470 thread=0)
+09/25/23 16:05:09 v1.34.5 @ FSAZ, Finished 3 curves using Lenstra ECM method on C19 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:05:09 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:09 v1.34.5 @ FSAZ, scheduled 27 curves at B1=2000 toward target pretesting depth of 3.08
+09/25/23 16:05:09 v1.34.5 @ FSAZ, prp10 = 2706073949
+09/25/23 16:05:09 v1.34.5 @ FSAZ, Total factoring time = 0.0231 seconds
+09/25/23 16:05:09 v1.34.5 @ FSAZ, Total factoring time = 0.1005 seconds
+09/25/23 16:05:09 v1.34.5 @ FSAZ, 
+09/25/23 16:05:09 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:05:09 v1.34.5 @ FSAZ, Starting factorization of 188173854700037751306885601841603088203
+09/25/23 16:05:09 v1.34.5 @ FSAZ, using pretesting plan: normal
+09/25/23 16:05:09 v1.34.5 @ FSAZ, no tune info: using qs/gnfs crossover of 95 digits
+09/25/23 16:05:09 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:05:09 v1.34.5 @ FSAZ, rho: x^2 + 3, starting 1000 iterations on C39
+09/25/23 16:05:09 v1.34.5 @ FSAZ, rho: x^2 + 2, starting 1000 iterations on C39
+09/25/23 16:05:09 v1.34.5 @ FSAZ, rho: x^2 + 1, starting 1000 iterations on C39
+09/25/23 16:05:09 v1.34.5 @ FSAZ, pm1: starting B1 = 150K, B2 = gmp-ecm default on C39
+09/25/23 16:05:09 v1.34.5 @ FSAZ, prp10 = 4093178561
+09/25/23 16:05:09 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:09 v1.34.5 @ FSAZ, scheduled 30 curves at B1=2000 toward target pretesting depth of 8.92
+09/25/23 16:05:09 v1.34.5 @ FSAZ, c20 = 10745194280150133511 (curve 1 stg2 B1=2000 sigma=2269393959 thread=0)
+09/25/23 16:05:09 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C29 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:05:09 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:09 v1.34.5 @ FSAZ, scheduled 29 curves at B1=2000 toward target pretesting depth of 3.08
+09/25/23 16:05:09 v1.34.5 @ FSAZ, prp10 = 4278428893
+09/25/23 16:05:09 v1.34.5 @ FSAZ, 
+09/25/23 16:05:09 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:05:09 v1.34.5 @ FSAZ, Starting factorization of 10745194280150133511
+09/25/23 16:05:09 v1.34.5 @ FSAZ, using pretesting plan: normal
+09/25/23 16:05:09 v1.34.5 @ FSAZ, no tune info: using qs/gnfs crossover of 95 digits
+09/25/23 16:05:09 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:05:09 v1.34.5 @ FSAZ, rho: x^2 + 3, starting 1000 iterations on C20
+09/25/23 16:05:09 v1.34.5 @ FSAZ, rho: x^2 + 2, starting 1000 iterations on C20
+09/25/23 16:05:09 v1.34.5 @ FSAZ, rho: x^2 + 1, starting 1000 iterations on C20
+09/25/23 16:05:09 v1.34.5 @ FSAZ, pm1: starting B1 = 150K, B2 = gmp-ecm default on C20
+09/25/23 16:05:09 v1.34.5 @ FSAZ, prp10 = 2804303069
+09/25/23 16:05:09 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:05:09 v1.34.5 @ FSAZ, scheduled 30 curves at B1=2000 toward target pretesting depth of 3.08
+09/25/23 16:05:09 v1.34.5 @ FSAZ, prp10 = 3831680819
+09/25/23 16:05:09 v1.34.5 @ FSAZ, Total factoring time = 0.0188 seconds
+09/25/23 16:05:09 v1.34.5 @ FSAZ, Total factoring time = 0.0452 seconds
+09/25/23 16:05:09 v1.34.5 @ FSAZ, Total factoring time = 0.2118 seconds
+09/25/23 16:56:42 v1.34.5 @ FSAZ, 
+09/25/23 16:56:42 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Starting factorization of 17290066070594979571009663381214201320459569851358502368651245514213538229969915658064992558167323586895088933922835353804055772638980251328261
+09/25/23 16:56:42 v1.34.5 @ FSAZ, using pretesting plan: normal
+09/25/23 16:56:42 v1.34.5 @ FSAZ, no tune info: using qs/gnfs crossover of 95 digits
+09/25/23 16:56:42 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:56:42 v1.34.5 @ FSAZ, rho: x^2 + 3, starting 1000 iterations on C143
+09/25/23 16:56:42 v1.34.5 @ FSAZ, rho: x^2 + 2, starting 1000 iterations on C143
+09/25/23 16:56:42 v1.34.5 @ FSAZ, rho: x^2 + 1, starting 1000 iterations on C143
+09/25/23 16:56:42 v1.34.5 @ FSAZ, pm1: starting B1 = 150K, B2 = gmp-ecm default on C143
+09/25/23 16:56:42 v1.34.5 @ FSAZ, c76 = 4621458271649466328929622888455049138346761759277590599899347613359417319051
+09/25/23 16:56:42 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:42 v1.34.5 @ FSAZ, scheduled 30 curves at B1=2000 toward target pretesting depth of 20.62
+09/25/23 16:56:42 v1.34.5 @ FSAZ, c19 = 8963932378613591723 (curve 1 stg1 B1=2000 sigma=1891680190 thread=0)
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C67 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:56:42 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:42 v1.34.5 @ FSAZ, scheduled 29 curves at B1=2000 toward target pretesting depth of 14.77
+09/25/23 16:56:42 v1.34.5 @ FSAZ, c29 = 23832743336263738084035586609 (curve 1 stg2 B1=2000 sigma=983199687 thread=0)
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C48 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:56:42 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:42 v1.34.5 @ FSAZ, scheduled 28 curves at B1=2000 toward target pretesting depth of 6.15
+09/25/23 16:56:42 v1.34.5 @ FSAZ, prp10 = 4093178561 (curve 1 stg1 B1=2000 sigma=4171912399 thread=0)
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C20 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:56:42 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:42 v1.34.5 @ FSAZ, scheduled 27 curves at B1=2000 toward target pretesting depth of 3.08
+09/25/23 16:56:42 v1.34.5 @ FSAZ, prp10 = 4278428893
+09/25/23 16:56:42 v1.34.5 @ FSAZ, 
+09/25/23 16:56:42 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Starting factorization of 4621458271649466328929622888455049138346761759277590599899347613359417319051
+09/25/23 16:56:42 v1.34.5 @ FSAZ, using pretesting plan: normal
+09/25/23 16:56:42 v1.34.5 @ FSAZ, no tune info: using qs/gnfs crossover of 95 digits
+09/25/23 16:56:42 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:56:42 v1.34.5 @ FSAZ, rho: x^2 + 3, starting 1000 iterations on C76
+09/25/23 16:56:42 v1.34.5 @ FSAZ, rho: x^2 + 2, starting 1000 iterations on C76
+09/25/23 16:56:42 v1.34.5 @ FSAZ, rho: x^2 + 1, starting 1000 iterations on C76
+09/25/23 16:56:42 v1.34.5 @ FSAZ, pm1: starting B1 = 150K, B2 = gmp-ecm default on C76
+09/25/23 16:56:42 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:42 v1.34.5 @ FSAZ, scheduled 30 curves at B1=2000 toward target pretesting depth of 23.38
+09/25/23 16:56:42 v1.34.5 @ FSAZ, c20 = 10683431980979154977 (curve 1 stg2 B1=2000 sigma=3187964918 thread=0)
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C76 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:56:42 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:42 v1.34.5 @ FSAZ, scheduled 29 curves at B1=2000 toward target pretesting depth of 17.54
+09/25/23 16:56:42 v1.34.5 @ FSAZ, prp10 = 2970591037 (curve 1 stg1 B1=2000 sigma=3230642589 thread=0)
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C57 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:56:42 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:42 v1.34.5 @ FSAZ, scheduled 28 curves at B1=2000 toward target pretesting depth of 14.77
+09/25/23 16:56:42 v1.34.5 @ FSAZ, prp10 = 2370292207 (curve 1 stg1 B1=2000 sigma=2431484324 thread=0)
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C48 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:56:42 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:42 v1.34.5 @ FSAZ, scheduled 27 curves at B1=2000 toward target pretesting depth of 11.69
+09/25/23 16:56:42 v1.34.5 @ FSAZ, prp10 = 2706073949 (curve 1 stg2 B1=2000 sigma=2795472315 thread=0)
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C38 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:56:42 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:42 v1.34.5 @ FSAZ, scheduled 26 curves at B1=2000 toward target pretesting depth of 8.92
+09/25/23 16:56:42 v1.34.5 @ FSAZ, c19 = 9707437519542135041 (curve 1 stg2 B1=2000 sigma=1797581062 thread=0)
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C29 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:56:42 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:42 v1.34.5 @ FSAZ, scheduled 25 curves at B1=2000 toward target pretesting depth of 3.08
+09/25/23 16:56:42 v1.34.5 @ FSAZ, prp10 = 2338725373
+09/25/23 16:56:42 v1.34.5 @ FSAZ, 
+09/25/23 16:56:42 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Starting factorization of 10683431980979154977
+09/25/23 16:56:42 v1.34.5 @ FSAZ, using pretesting plan: normal
+09/25/23 16:56:42 v1.34.5 @ FSAZ, no tune info: using qs/gnfs crossover of 95 digits
+09/25/23 16:56:42 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:56:42 v1.34.5 @ FSAZ, rho: x^2 + 3, starting 1000 iterations on C20
+09/25/23 16:56:42 v1.34.5 @ FSAZ, rho: x^2 + 2, starting 1000 iterations on C20
+09/25/23 16:56:42 v1.34.5 @ FSAZ, rho: x^2 + 1, starting 1000 iterations on C20
+09/25/23 16:56:42 v1.34.5 @ FSAZ, pm1: starting B1 = 150K, B2 = gmp-ecm default on C20
+09/25/23 16:56:42 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:42 v1.34.5 @ FSAZ, scheduled 30 curves at B1=2000 toward target pretesting depth of 6.15
+09/25/23 16:56:42 v1.34.5 @ FSAZ, prp10 = 3654864131 (curve 1 stg2 B1=2000 sigma=1084797206 thread=0)
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C20 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:56:42 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:42 v1.34.5 @ FSAZ, scheduled 29 curves at B1=2000 toward target pretesting depth of 3.08
+09/25/23 16:56:42 v1.34.5 @ FSAZ, prp10 = 2923072267
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Total factoring time = 0.0889 seconds
+09/25/23 16:56:42 v1.34.5 @ FSAZ, 
+09/25/23 16:56:42 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Starting factorization of 9707437519542135041
+09/25/23 16:56:42 v1.34.5 @ FSAZ, using pretesting plan: normal
+09/25/23 16:56:42 v1.34.5 @ FSAZ, no tune info: using qs/gnfs crossover of 95 digits
+09/25/23 16:56:42 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:56:42 v1.34.5 @ FSAZ, rho: x^2 + 3, starting 1000 iterations on C19
+09/25/23 16:56:42 v1.34.5 @ FSAZ, rho: x^2 + 2, starting 1000 iterations on C19
+09/25/23 16:56:42 v1.34.5 @ FSAZ, rho: x^2 + 1, starting 1000 iterations on C19
+09/25/23 16:56:42 v1.34.5 @ FSAZ, pm1: starting B1 = 150K, B2 = gmp-ecm default on C19
+09/25/23 16:56:42 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:42 v1.34.5 @ FSAZ, scheduled 30 curves at B1=2000 toward target pretesting depth of 5.85
+09/25/23 16:56:42 v1.34.5 @ FSAZ, prp10 = 2463878387 (curve 1 stg1 B1=2000 sigma=3521323574 thread=0)
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C19 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:56:42 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:42 v1.34.5 @ FSAZ, scheduled 29 curves at B1=2000 toward target pretesting depth of 3.08
+09/25/23 16:56:42 v1.34.5 @ FSAZ, prp10 = 3939901243
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Total factoring time = 0.0684 seconds
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Total factoring time = 0.3829 seconds
+09/25/23 16:56:42 v1.34.5 @ FSAZ, 
+09/25/23 16:56:42 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Starting factorization of 23832743336263738084035586609
+09/25/23 16:56:42 v1.34.5 @ FSAZ, using pretesting plan: normal
+09/25/23 16:56:42 v1.34.5 @ FSAZ, no tune info: using qs/gnfs crossover of 95 digits
+09/25/23 16:56:42 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:56:42 v1.34.5 @ FSAZ, rho: x^2 + 3, starting 1000 iterations on C29
+09/25/23 16:56:42 v1.34.5 @ FSAZ, rho: x^2 + 2, starting 1000 iterations on C29
+09/25/23 16:56:42 v1.34.5 @ FSAZ, rho: x^2 + 1, starting 1000 iterations on C29
+09/25/23 16:56:42 v1.34.5 @ FSAZ, pm1: starting B1 = 150K, B2 = gmp-ecm default on C29
+09/25/23 16:56:42 v1.34.5 @ FSAZ, prp10 = 2217990919
+09/25/23 16:56:43 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:43 v1.34.5 @ FSAZ, scheduled 30 curves at B1=2000 toward target pretesting depth of 6.15
+09/25/23 16:56:43 v1.34.5 @ FSAZ, prp10 = 3831680819 (curve 1 stg1 B1=2000 sigma=556825443 thread=0)
+09/25/23 16:56:43 v1.34.5 @ FSAZ, Finished 1 curves using Lenstra ECM method on C20 input, B1=2K, B2=gmp-ecm default
+09/25/23 16:56:43 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:43 v1.34.5 @ FSAZ, scheduled 29 curves at B1=2000 toward target pretesting depth of 3.08
+09/25/23 16:56:43 v1.34.5 @ FSAZ, prp10 = 2804303069
+09/25/23 16:56:43 v1.34.5 @ FSAZ, Total factoring time = 0.0953 seconds
+09/25/23 16:56:43 v1.34.5 @ FSAZ, 
+09/25/23 16:56:43 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:56:43 v1.34.5 @ FSAZ, Starting factorization of 8963932378613591723
+09/25/23 16:56:43 v1.34.5 @ FSAZ, using pretesting plan: normal
+09/25/23 16:56:43 v1.34.5 @ FSAZ, no tune info: using qs/gnfs crossover of 95 digits
+09/25/23 16:56:43 v1.34.5 @ FSAZ, ****************************
+09/25/23 16:56:43 v1.34.5 @ FSAZ, rho: x^2 + 3, starting 1000 iterations on C19
+09/25/23 16:56:43 v1.34.5 @ FSAZ, rho: x^2 + 2, starting 1000 iterations on C19
+09/25/23 16:56:43 v1.34.5 @ FSAZ, rho: x^2 + 1, starting 1000 iterations on C19
+09/25/23 16:56:43 v1.34.5 @ FSAZ, pm1: starting B1 = 150K, B2 = gmp-ecm default on C19
+09/25/23 16:56:43 v1.34.5 @ FSAZ, prp10 = 2794985117
+09/25/23 16:56:43 v1.34.5 @ FSAZ, current ECM pretesting depth: 0.00
+09/25/23 16:56:43 v1.34.5 @ FSAZ, scheduled 30 curves at B1=2000 toward target pretesting depth of 3.08
+09/25/23 16:56:43 v1.34.5 @ FSAZ, prp10 = 3207148519
+09/25/23 16:56:43 v1.34.5 @ FSAZ, Total factoring time = 0.0509 seconds
+09/25/23 16:56:43 v1.34.5 @ FSAZ, Total factoring time = 0.6896 seconds

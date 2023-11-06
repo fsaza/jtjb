@@ -1,0 +1,24 @@
+09/25/23 16:05:08 v1.34.5 @ FSAZ, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected 13th Gen Intel(R) Core(TM) i9-13900HX
+detected L1 = 49152 bytes, L2 = 37748736 bytes, CL = 64 bytes
+measured cpu frequency ~= 2420.635320
+using 20 random witnesses for Rabin-Miller PRP checks
+
+09/25/23 16:05:08 v1.34.5 @ FSAZ, New random seeds: 2438091970, 1704893184
+
+09/25/23 16:05:08 v1.34.5 @ FSAZ, Processing expression: factor(17290066070594979571009663381214201320459569851358502368651245514213538229969915658064992558167323586895088933922835353804055772638980251328261)
+
+09/25/23 16:56:42 v1.34.5 @ FSAZ, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected 13th Gen Intel(R) Core(TM) i9-13900HX
+detected L1 = 49152 bytes, L2 = 37748736 bytes, CL = 64 bytes
+measured cpu frequency ~= 2433.934300
+using 20 random witnesses for Rabin-Miller PRP checks
+
+09/25/23 16:56:42 v1.34.5 @ FSAZ, New random seeds: 4162707858, 1734459456
+
+09/25/23 16:56:42 v1.34.5 @ FSAZ, Processing expression: factor(17290066070594979571009663381214201320459569851358502368651245514213538229969915658064992558167323586895088933922835353804055772638980251328261)
+
