@@ -1,0 +1,39 @@
+from pwn import *
+from Crypto.Cipher import AES
+from Crypto.Util.Padding import pad
+from os import urandomfrom tqdm
+import tqdm
+
+HOST = "node4.buuoj.cn"
+PORT = 26780
+r = remote(HOST, PORT)
+
+auth_code = urandom(16)
+token = urandom(16)
+
+diff = [0] * 16
+
+for i in reversed(range(16)):
+	for b in tqdm(range(256)):
+		diff[i] = b
+		tmp_tk = xor(token, bytes(diff))
+
+		r.sendlineafter(b'> ', b'1')
+		r.sendlineafter(b'> ', tmp_tk.hex().encode())
+		r.sendlineafter(b'> ', auth_code.hex().encode())
+		res = r.recvline()
+		if b'out' in res:
+			if i != 0:
+				for j in range(i, 16):
+					diff[j] ^= (16 - i) ^ (16 - i + 1)
+			break
+
+forged_token = xor(token, bytes(diff))
+forged_token = xor(forged_token, b'\x10' * 16)
+forged_token = xor(forged_token, pad(b'SoNP#1033', 16))
+
+r.sendlineafter(b'> ', b'1')
+r.sendlineafter(b'> ', forged_token.hex().encode())
+r.sendlineafter(b'> ', auth_code.hex().encode())
+
+r.interactive()
